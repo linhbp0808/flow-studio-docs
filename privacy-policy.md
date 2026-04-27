@@ -1,7 +1,7 @@
 # Privacy Policy for Flow Studio - Batch Manager
 
 **Last updated:** April 27, 2026  
-**Extension Version:** 1.1.1  
+**Extension Version:** 1.2.0  
 **Developer Contact:** linhbp0808@gmail.com
 
 ---
